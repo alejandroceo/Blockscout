@@ -1,0 +1,36 @@
+¿Qué es un explorador de bloques?
+Los exploradores de bloques son sitios web que ejecutan nodos de archivo completos de las distintas cadenas de bloques, indexan la información de las bases de datos de las redes y muestran la información al público.
+
+Este es un nuevo nivel de transparencia en el mundo de las finanzas, no sólo porque la información está disponible, sino porque los usuarios comunes pueden utilizar estos servicios de terceros para rastrear y auditar las cadenas de bloques. En la banca toda esta información es una caja negra.
+
+Los datos de estos sitios web pueden estar organizados por bloque, por transacciones o dirección, y muchas veces tienen más estadísticas y gráficos que son útiles para analizar la actividad en las redes.
+
+¿Qué es Blockscout?
+
+BlockScout es una aplicación de Elixir que permite a los usuarios buscar transacciones, ver cuentas y saldos, y verificar contratos inteligentes en toda la red Ethereum, incluyendo todas las bifurcaciones y cadenas laterales.
+
+Blockscout: el poder del explorador de bloques de código abierto
+
+Blockscout utiliza el poder del código abierto para abrir funciones ilimitadas en Block Explorers
+
+"El poder del código abierto es el poder de la gente. El pueblo gobierna. —Philippe Kahn"
+
+En primer lugar, Blockscout permite construir proyectos de forma totalmente gratuita . A medida que la tecnología se desarrolla gradualmente, la tendencia del código abierto se extiende y recibe una fuerte respuesta. 
+Si bien esto tiene mucho sentido para el desarrollo general, no genera muchos ingresos para los desarrolladores y el problema es especialmente grave si el código requiere un mantenimiento a largo plazo. 
+El uso de Blockscout para crear exploradores de bloques ahorra muchos costos de servicio y los fondos ahorrados se pueden utilizar para otros fines, como la contratación.
+
+El código abierto es el presente y será el futuro de la industria tecnológica. Blockscout, que está aprovechando el poder del código abierto, 
+espera aportar valores prácticos tanto a la industria blockchain en general como a Web3 en particular. Los exploradores creados a partir del conjunto de herramientas de Blockscout tendrán alta seguridad, 
+capacidad de actualización infinita y, especialmente, ningún costo de desarrollo. Esto allana el camino para que los proyectos utilicen recursos para desarrollar otros aspectos de su blockchain.
+
+Comience a crear un explorador para su blockchain en: https://www.blockscout.com/
+
+DAppscout : Seguro que hoy en día oyes hablar a menudo de estafas de phishing con activos por valor de cientos o millones de dólares. 
+Esto debe ser un shock para muchas víctimas porque todavía tienen problemas a pesar de que tienen mucho cuidado con los estafadores. 
+Dappscout, con su naturaleza inteligente y una fuente altamente confiable, puede resolver este problema, además de brindar la conveniencia de poder interactuar directamente con DEX como Uniswap,
+intercambios de préstamos como Aave o agregadores puente como Jumper sin tener que abrir otra pestaña.
+o verificar el enlace.
+
+
+
+
